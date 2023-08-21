@@ -16,9 +16,9 @@ Further information on the IBM 5161 is available from [minuszerodegrees.net](htt
 Clones of the IBM 5161 Sender and Receiver cards are available from Tube Time via [github.com]
 (https://github.com/schlae/ibm-extender)
 
-[Top of the 5161 planar clone board.](https://gitlab.com/trs-eric/5161-planar-backplane-board/-/blob/main/top.png)
+![Top of the 5161 planar clone board.](https://gitlab.com/trs-eric/5161-planar-backplane-board/-/blob/main/top.png)
 
-[Bottom of the 5161 planar clone board.](https://gitlab.com/trs-eric/5161-planar-backplane-board/-/blob/main/bottom.png)
+![Bottom of the 5161 planar clone board.](https://gitlab.com/trs-eric/5161-planar-backplane-board/-/blob/main/bottom.png)
 
 # License
 
