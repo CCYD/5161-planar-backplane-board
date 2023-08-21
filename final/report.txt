@@ -1,0 +1,11 @@
+Plotted to 'C:\Users\eric\Documents\Projects\ibm5161-backplane\ibm5161-backplane\final\ibm5161-backplane-F_Cu.gbr'.
+Plotted to 'C:\Users\eric\Documents\Projects\ibm5161-backplane\ibm5161-backplane\final\ibm5161-backplane-B_Cu.gbr'.
+Plotted to 'C:\Users\eric\Documents\Projects\ibm5161-backplane\ibm5161-backplane\final\ibm5161-backplane-F_Paste.gbr'.
+Plotted to 'C:\Users\eric\Documents\Projects\ibm5161-backplane\ibm5161-backplane\final\ibm5161-backplane-B_Paste.gbr'.
+Plotted to 'C:\Users\eric\Documents\Projects\ibm5161-backplane\ibm5161-backplane\final\ibm5161-backplane-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\eric\Documents\Projects\ibm5161-backplane\ibm5161-backplane\final\ibm5161-backplane-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\eric\Documents\Projects\ibm5161-backplane\ibm5161-backplane\final\ibm5161-backplane-F_Mask.gbr'.
+Plotted to 'C:\Users\eric\Documents\Projects\ibm5161-backplane\ibm5161-backplane\final\ibm5161-backplane-B_Mask.gbr'.
+Plotted to 'C:\Users\eric\Documents\Projects\ibm5161-backplane\ibm5161-backplane\final\ibm5161-backplane-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\eric\Documents\Projects\ibm5161-backplane\ibm5161-backplane\final\ibm5161-backplane-job.gbrjob'.
+Info: Done.
