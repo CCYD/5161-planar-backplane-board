@@ -7,9 +7,12 @@ This project is a clone of the IBM 5161 planar (backplane) board. The 5161 plana
 The clone herein should be accurate to within a few millimeters. If anyone would like to loan a real 5161 planar board to me I can correct a few things. Alternatively, feel free to commit back instead!
 
 Design notes:
-	*The clone board is marked 1130600(TRS) on the front. TRS stands for TRS-Eric. This is how you can verify it is a clone board of this design.
-	*The back contains a datecode (currently 2333, 23rd year, 33rd week). This datecode functions as the version of this board. If you create your own board with modifications or another manufacturer other than JLCPCB, you may want to consider changing this date code.
-	*The holes for the capacitor are larger than normal to allow for other styles / models of variable capacitor. More information can be found at [minuszerodegrees.net](https://www.minuszerodegrees.net/5160/motherboard/IBM%205160%20motherboard%20-%20Capacitor%20C1%20replacement.htm).
+
+	-The clone board is marked 1130600(TRS) on the front. TRS stands for TRS-Eric. This is how you can verify it is a clone board of this design.
+	
+	-The back contains a datecode (currently 2333, 23rd year, 33rd week). This datecode functions as the version of this board. If you create your own board with modifications or another manufacturer other than JLCPCB, you may want to consider changing this date code.
+	
+	-The holes for the capacitor are larger than normal to allow for other styles / models of variable capacitor. More information can be found at [minuszerodegrees.net](https://www.minuszerodegrees.net/5160/motherboard/IBM%205160%20motherboard%20-%20Capacitor%20C1%20replacement.htm).
 
 Further information on the IBM 5161 is available from [minuszerodegrees.net](http://minuszerodegrees.net/5161/doco/5161_documentation.htm).
 
