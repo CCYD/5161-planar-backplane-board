@@ -4307,6 +4307,12 @@
 		(uuid "f4ff4b81-b5ee-4611-9d44-d830b0f0fe73")
 	)
 	(junction
+		(at 320.04 168.91)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f67da9d1-5528-45a8-98b5-9e4b0484999e")
+	)
+	(junction
 		(at 158.75 161.29)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -9441,6 +9447,16 @@
 	)
 	(wire
 		(pts
+			(xy 320.04 168.91) (xy 320.04 176.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "25d888f7-28de-4b05-a267-cffecd65c4b0")
+	)
+	(wire
+		(pts
 			(xy 377.19 88.9) (xy 386.08 88.9)
 		)
 		(stroke
@@ -9591,7 +9607,7 @@
 	)
 	(wire
 		(pts
-			(xy 308.61 168.91) (xy 330.2 168.91)
+			(xy 308.61 168.91) (xy 320.04 168.91)
 		)
 		(stroke
 			(width 0)
@@ -11299,6 +11315,16 @@
 		)
 		(uuid "5b9cc24c-f845-48f8-9c18-eab9975497af")
 	)
+	(wire
+		(pts
+			(xy 320.04 168.91) (xy 330.2 168.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5bee6c6f-0a7f-4b02-87bd-0285d87b7a36")
+	)
 	(bus
 		(pts
 			(xy 135.89 96.52) (xy 135.89 99.06)
@@ -12688,6 +12714,16 @@
 			(type default)
 		)
 		(uuid "84a2deee-a402-4cee-a702-65b2bc95f57e")
+	)
+	(wire
+		(pts
+			(xy 320.04 176.53) (xy 330.2 176.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "85613ea8-266f-419c-acf0-bf6053855225")
 	)
 	(wire
 		(pts
@@ -30740,6 +30776,72 @@
 			(project "ibm5161-backplane"
 				(path "/3153ab07-b19d-413d-9c02-432affa22f92"
 					(reference "#PWR049")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:-12V")
+		(at 330.2 176.53 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c842f6fb-0d56-4f88-a45d-784b32d30c7a")
+		(property "Reference" "#PWR088"
+			(at 332.74 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "-12V"
+			(at 327.66 175.26 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 330.2 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 330.2 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 330.2 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "05743831-14bc-48d1-81a5-2a84c5a2fd8a")
+		)
+		(instances
+			(project "ibm5161-backplane"
+				(path "/3153ab07-b19d-413d-9c02-432affa22f92"
+					(reference "#PWR088")
 					(unit 1)
 				)
 			)
